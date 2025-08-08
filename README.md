@@ -33,13 +33,8 @@ For Software:
 For Hardware:
 None. Just your hungry hands and a browser.
 
-### Implementation
-For Software:
-# Installation
-git clone https://github.com/yourusername/chick-n-pick.git
-cd chick-n-pick
-npm install
-
+### Link
+https://chick-n-spin.vercel.app/
 
 # Run
 npm run dev
