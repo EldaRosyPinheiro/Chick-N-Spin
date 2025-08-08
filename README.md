@@ -2,7 +2,8 @@
 
 
 # 🐔 Chick N Pick 🎯
-
+### Link
+https://chick-n-spin.vercel.app/
 
 ## Basic Details
 ### Team Name:Ohmega
@@ -32,9 +33,6 @@ For Software:
 
 For Hardware:
 None. Just your hungry hands and a browser.
-
-### Link
-https://chick-n-spin.vercel.app/
 
 ### Project Documentation
 For Software:
