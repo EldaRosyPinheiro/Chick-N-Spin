@@ -55,18 +55,13 @@ https://drive.google.com/file/d/1AwAP07EnmfqEtc6QYZXkkgTJdFxGLR34/view?usp=shari
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
-
-# Additional Demos
-[Add any extra demo materials/links]
+https://drive.google.com/file/d/1FnVVe_ao2G4VXS7fuTaKEx66H7Ap5bmy/view?usp=sharing
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+Elda Rosy Pinheiro: UI design, logic implementation, testing
+Anjith Bineesh: State management, spin logic, animations
 
----
+
 Made with ❤️ at TinkerHub Useless Projects 
 
 ![Static Badge](https://img.shields.io/badge/TinkerHub-24?color=%23000000&link=https%3A%2F%2Fwww.tinkerhub.org%2F)
