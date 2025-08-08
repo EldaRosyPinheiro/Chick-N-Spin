@@ -36,9 +36,6 @@ None. Just your hungry hands and a browser.
 ### Link
 https://chick-n-spin.vercel.app/
 
-# Run
-npm run dev
-
 ### Project Documentation
 For Software:
 
